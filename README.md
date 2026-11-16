@@ -2,6 +2,9 @@
 
 > **Proyek Capstone 7**: Aplikasi Pembangkit dan Visualisasi Interaktif Geometri Fraktal Klasik  
 > **Program Studi**: S1 Ilmu Komputer / Informatika, FMIPA, Universitas Gadjah Mada  
+> **Anggota Tim Pengembang**:  
+> - Aji Kusuma Putra (NIM: 22/503701/PA/21657)  
+> - Rayhan Haldi Hermawan (NIM: 24/545406/PA/23176)  
 
 ---
 
