@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+sample_data/*.png
+!sample_data/mandelbrot_fire.png
+!sample_data/julia_ocean.png
+!sample_data/barnsley_fern.png
