@@ -11,11 +11,9 @@
 ## Ringkasan Proyek
 Aplikasi pembangkit dan penjelajah fraktal berkinerja tinggi berbasis vektorisasi NumPy untuk mengeksplorasi himpunan Mandelbrot, himpunan Julia, karpet Sierpinski, kepingan salju Koch, dan pakis Barnsley dengan *smooth continuous potential coloring* dan antarmuka interaktif desktop.
 
-### Pembagian Tugas Tim 4 Mahasiswa
-1. **Mahasiswa 1**: Pembangunan Mesin Bilangan Kompleks & Vektorisasi Mandelbrot/Julia.
-2. **Mahasiswa 2**: Pembangkit Fraktal Geometris Rekursif (Sierpinski & Koch) dan Stokastik IFS (Barnsley Fern).
-3. **Mahasiswa 3**: Modul Pewarnaan Halus (*Continuous Smooth Potential Color Mapping*) & Manajemen Palet.
-4. **Mahasiswa 4**: Antarmuka Grafis (Tkinter GUI), Fitur Ekspor Citra, & Pengujian Kinerja Komputasi.
+### Pembagian Tugas Tim (2 Mahasiswa)
+1. **Aji Kusuma Putra** (`22/503701/PA/21657`): Mesin komputasi bidang bilangan kompleks, vektorisasi Mandelbrot/Julia, generator geometri rekursif (Sierpinski, Koch), dan generator stokastik IFS Barnsley Fern (Chaos Game). (Modul: `core/mandelbrot.py`, `core/geometric_fractals.py`).
+2. **Rayhan Haldi Hermawan** (`24/545406/PA/23176`): Modul pewarnaan continuous potential escape-time, manajemen palet warna dinamis, Desktop GUI Tkinter, navigasi zoom interaktif, ekspor citra resolusi tinggi, integrasi CLI, dan benchmark throughput. (Modul: `core/color_maps.py`, `sample_data/generate_previews.py`, `gui/app.py`, `cli.py`).
 
 ---
 

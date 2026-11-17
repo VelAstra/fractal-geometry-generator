@@ -32,11 +32,9 @@ Fraktal dalam ruang kompleks didefinisikan melalui rekursi sederhana yang mengha
 2. Bagaimana memodelkan fraktal geometris diskret (Sierpinski Carpet, Koch Snowflake) dan stokastik (Barnsley Fern Chaos Game)?
 3. Bagaimana merancang aplikasi antarmuka grafis yang responsif untuk manipulasi parameter dan ekspor citra beresolusi tinggi?
 
-### 1.3 Pembagian Tugas Tim (4 Mahasiswa)
-1. **Mahasiswa 1**: Pembangunan Mesin Komputasi Bilangan Kompleks & Vektorisasi Mandelbrot/Julia.
-2. **Mahasiswa 2**: Generator Fraktal Geometris Rekursif (Sierpinski & Koch) dan Stokastik IFS (Barnsley Fern).
-3. **Mahasiswa 3**: Modul Pewarnaan Halus (*Continuous Smooth Potential Color Mapping*) & Manajemen Palet.
-4. **Mahasiswa 4**: Antarmuka Grafis (Tkinter GUI), Fitur Ekspor Citra, & Pengujian Kinerja Komputasi.
+### 1.3 Pembagian Tugas Tim Capstone (2 Mahasiswa)
+1. **Aji Kusuma Putra** (NIM: 22/503701/PA/21657): Mesin komputasi bidang bilangan kompleks, vektorisasi Mandelbrot/Julia, generator geometri rekursif (Sierpinski, Koch), dan generator stokastik IFS Barnsley Fern (Chaos Game). (`core/mandelbrot.py`, `core/geometric_fractals.py`).
+2. **Rayhan Haldi Hermawan** (NIM: 24/545406/PA/23176): Modul pewarnaan continuous potential escape-time, manajemen palet warna dinamis, Desktop GUI Tkinter, navigasi zoom interaktif, ekspor citra resolusi tinggi, integrasi CLI, dan benchmark throughput. (`core/color_maps.py`, `sample_data/generate_previews.py`, `gui/app.py`, `cli.py`).
 
 ---
 
